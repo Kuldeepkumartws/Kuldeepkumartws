@@ -90,7 +90,6 @@ I specialize in transforming complex business requirements into **clean, product
 
 ## 🚀 What Sets Me Apart
 
-✅ 6+ years of proven experience  
 ✅ Delivered **50+ successful projects globally**  
 ✅ Strong full-stack expertise (Frontend + Backend)  
 ✅ Clean, scalable & maintainable code  

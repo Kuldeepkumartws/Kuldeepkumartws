@@ -11,20 +11,51 @@ I specialize in transforming complex business requirements into **clean, product
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages:
-JavaScript • TypeScript • PHP • Python • SQL • HTML5 • CSS3
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+</p>
 
 ### ⚙️ Frameworks & Libraries:
-React.js • Node.js • Express.js • Laravel • CodeIgniter • Next.js
+<p>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+</p>
 
 ### 🗄️ Database Systems:
-MongoDB • MySQL • PostgreSQL • Firebase
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+</p>
 
 ### ☁️ Cloud & DevOps:
-AWS (EC2, S3, RDS) • Google Cloud • Docker • CI/CD Pipelines
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions" />
+</p>
 
 ### 🔧 Tools & Version Control:
-Git • GitHub • GitLab • Jira • Trello • Asana
-
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana" />
+</p>
 ## 💡 Key Focus Areas
 
 🌐 Full-Stack Web Development & Scalable Architectures  
@@ -84,5 +115,3 @@ Git • GitHub • GitLab • Jira • Trello • Asana
 I’m always open to **exciting projects, collaborations, and tech discussions** 🚀  
 
 If you're looking for a **committed and skilled Full Stack Developer** who can turn your ideas into impactful digital products — let’s connect!
-
----

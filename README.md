@@ -34,8 +34,6 @@ Git • GitHub • GitLab • Jira • Trello • Asana
 🔗 REST API & Third-Party Integrations  
 📊 Performance Optimization & Security Enhancement  
 
----
-
 ## 🌟 My Expertise
 
 ### 🖥️ Full-Stack Development
@@ -58,8 +56,6 @@ Git • GitHub • GitLab • Jira • Trello • Asana
 📈 Scalable business solutions  
 🔒 Security-first approach  
 
----
-
 ## 🚀 What Sets Me Apart
 
 ✅ 6+ years of proven experience  
@@ -68,15 +64,11 @@ Git • GitHub • GitLab • Jira • Trello • Asana
 ✅ Clean, scalable & maintainable code  
 ✅ Reliable communication & on-time delivery  
 
----
-
 ## 💬 Client Feedback
 
 🗣️ *"Kuldeep exceeded expectations! Fantastic communicator and delivers high-quality work."*  
 🗣️ *"Very reliable developer. Strong expertise in PHP & MERN stack."*  
 🗣️ *"Detail-oriented and highly professional. Would definitely hire again."*  
-
----
 
 ## 💡 What I Can Build For You
 
@@ -86,8 +78,6 @@ Git • GitHub • GitLab • Jira • Trello • Asana
 ✅ API integrations & automation  
 ✅ Performance optimization & scaling  
 ✅ Cloud-based solutions (AWS/GCP)  
-
----
 
 ## 📩 Let’s Connect
 

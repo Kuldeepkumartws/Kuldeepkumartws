@@ -1,4 +1,4 @@
-<h1 align="left">Hello👋. Thank you for visiting my profile
+<h1 align="left">Hello👋! Thank you for visiting my profile
  👨‍💻</h1>
 
 ## 👋 About Me

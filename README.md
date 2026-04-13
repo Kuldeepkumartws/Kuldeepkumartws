@@ -25,8 +25,6 @@ AWS (EC2, S3, RDS) • Google Cloud • Docker • CI/CD Pipelines
 ### 🔧 Tools & Version Control:
 Git • GitHub • GitLab • Jira • Trello • Asana
 
----
-
 ## 💡 Key Focus Areas
 
 🌐 Full-Stack Web Development & Scalable Architectures  

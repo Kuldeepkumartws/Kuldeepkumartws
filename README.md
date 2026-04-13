@@ -56,7 +56,8 @@ I specialize in transforming complex business requirements into **clean, product
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello" />
   <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana" />
 </p>
- 💡 Key Focus Areas
+
+ ### 💡 Key Focus Areas
 
 🌐 Full-Stack Web Development & Scalable Architectures  
 🚀 SaaS Application Development (MVP to Production)  
